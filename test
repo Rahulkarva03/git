@@ -4,8 +4,12 @@ sechond line
 
 tired line
 
+<<<<<<< HEAD
 fort line
 
 fifth
 
  
+=======
+fifth line 
+>>>>>>> dev
